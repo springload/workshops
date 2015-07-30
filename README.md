@@ -18,6 +18,8 @@ workshops
 
 ## Functional JavaScript workshop
 
+>Learn functional programming in JavaScript with a NodeSchool workshop! https://github.com/timoxley/functional-javascript-workshop.
+
 ```sh
 # To install the workshop:
 npm install -g functional-javascript-workshop
