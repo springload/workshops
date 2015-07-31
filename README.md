@@ -42,3 +42,15 @@ functional-javascript
 - [Underscore.js](http://underscorejs.org/), the most used "functional programming helpers" library.
 - Good read on the topic of [FP and FP in JavaScript from MDN](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)
 - What are `.bind`, `.apply` and `.call`? [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/)
+
+## TBA – Test-Driven Development workshop
+
+> TODO
+
+### To start the workshops
+
+TODO
+
+### What did we learn?
+
+TODO
