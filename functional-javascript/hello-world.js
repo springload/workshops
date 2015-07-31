@@ -1,5 +1,7 @@
+
 function upperCaser(input) {
-    // SOLUTION GOES HERE
+    return input.toUpperCase();
 }
 
+// Export the function as a CommonJS module.
 module.exports = upperCaser;
