@@ -66,13 +66,28 @@ TODO
 
 TODO
 
-## TBA – Test-Driven Development workshop
+## Test-Driven Development workshop
 
-> TODO
+> A refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
 
 ### To start the workshops
 
-TODO
+You'll need Node installed. Then, from the command line:
+
+```sh
+# To install the workshop:
+git clone git@github.com:springload/workshops.git
+cd workshops/tdd-workshop/
+npm install
+npm install -g eslint eslint-config-airbnb eslint-plugin-react babel-eslint
+# Then, to run the workshop:
+npm start
+# Run the coverage
+npm run coverage
+open coverage/lcov-report/index.html
+# Run the linting
+npm run lint
+```
 
 ### What did we learn?
 

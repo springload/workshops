@@ -1,0 +1,48 @@
+{
+  "name": "gilded-roses",
+  "version": "1.0.0",
+  "description": "A refactoring kata in ES6 JavaScript",
+  "main": "test/gilded_rose.spec.js",
+  "scripts": {
+    "start": "npm run unittest:watch",
+    "test": "npm run unittest",
+    "unittest": "mocha --compilers js:babel/register",
+    "unittest:watch": "mocha --compilers js:babel/register --watch",
+    "coverage": "babel-node ./node_modules/.bin/isparta cover ./node_modules/.bin/_mocha",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThibWeb/gilded-roses.git"
+  },
+  "keywords": [
+    "codingdojo",
+    "kata",
+    "refactoring",
+    "javascript",
+    "jasmine",
+    "istanbul",
+    "isparta",
+    "mocha",
+    "chai",
+    "es6",
+    "es2015",
+    "babel",
+    "tdd"
+  ],
+  "author": "Thibaud Colas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThibWeb/gilded-roses/issues"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-eslint": "^4.1.1",
+    "chai": "^3.2.0",
+    "eslint": "^1.3.1",
+    "eslint-config-airbnb": "0.0.8",
+    "eslint-plugin-react": "^3.3.0",
+    "isparta": "^3.0.4",
+    "mocha": "^2.3.0"
+  }
+}
