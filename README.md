@@ -18,7 +18,7 @@ workshops
 
 ## Functional JavaScript workshop
 
->Learn functional programming in JavaScript with a NodeSchool workshop! https://github.com/timoxley/functional-javascript-workshop.
+> Learn functional programming in JavaScript with a NodeSchool workshop! https://github.com/timoxley/functional-javascript-workshop.
 
 ### To start the workshop
 
@@ -42,6 +42,29 @@ functional-javascript
 - [Underscore.js](http://underscorejs.org/), the most used "functional programming helpers" library.
 - Good read on the topic of [FP and FP in JavaScript from MDN](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)
 - What are `.bind`, `.apply` and `.call`? [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/)
+
+## Unit Testing workshop
+
+> Learn to test anything with TAP! https://github.com/finnp/test-anything.
+
+### To start the workshop
+
+You'll need Node installed. Then, from the command line:
+
+```sh
+# To install the workshop:
+npm install -g test-anything
+# Then, to run the workshop:
+test-anything
+```
+
+### What did we learn?
+
+TODO
+
+### To go further
+
+TODO
 
 ## TBA – Test-Driven Development workshop
 
