@@ -60,11 +60,15 @@ test-anything
 
 ### What did we learn?
 
-TODO
+- Unit testing is a useful practice to increase code quality, and to make maintenance easier.
+- There are APIs built into Node and JavaScript to unit test code, like [`assert`](https://nodejs.org/api/assert.html).
+- They aren't as good as open-source alternatives like [tape](https://www.npmjs.com/package/tape), or [Jasmine / Mocha + Chai](http://jasmine.github.io/).
 
 ### To go further
 
-TODO
+- A [good article on unit testing](http://blog.codinghorror.com/i-pity-the-fool-who-doesnt-write-unit-tests/) by Jeff Atwood.
+- Our [front-end starter kit](https://github.com/springload/frontend-starter-kit/) contains a simple test setup with Mocha and Chai.
+- Next workshop: [Test-Driven Development](https://github.com/springload/workshops#test-driven-development-workshop)
 
 ## Test-Driven Development workshop
 
