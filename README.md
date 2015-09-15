@@ -16,7 +16,7 @@ workshops
 
 [![Built with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://www.springload.co.nz/)
 
-## Functional JavaScript workshop
+## Functional JavaScript
 
 > Learn functional programming in JavaScript with a NodeSchool workshop! https://github.com/timoxley/functional-javascript-workshop.
 
@@ -68,13 +68,13 @@ test-anything
 
 - A [good article on unit testing](http://blog.codinghorror.com/i-pity-the-fool-who-doesnt-write-unit-tests/) by Jeff Atwood.
 - Our [front-end starter kit](https://github.com/springload/frontend-starter-kit/) contains a simple test setup with Mocha and Chai.
-- Next workshop: [Test-Driven Development](https://github.com/springload/workshops#test-driven-development-workshop)
+- Future workshop: [Test-Driven Development](https://github.com/springload/workshops#test-driven-development-workshop)
 
 ## Test-Driven Development workshop
 
 > A refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
 
-### To start the workshops
+### To start the workshop
 
 You'll need Node installed. Then, from the command line:
 
@@ -92,6 +92,10 @@ open coverage/lcov-report/index.html
 # Run the linting
 npm run lint
 ```
+
+### To go further
+
+TODO
 
 ### What did we learn?
 
