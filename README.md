@@ -70,6 +70,35 @@ test-anything
 - Our [front-end starter kit](https://github.com/springload/frontend-starter-kit/) contains a simple test setup with Mocha and Chai.
 - Future workshop: [Test-Driven Development](https://github.com/springload/workshops#test-driven-development-workshop)
 
+## Thinking in React
+
+> A workshopper module for learning React, based on [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html).
+
+### To start the workshop
+
+This workshop is heavily based on http://facebook.github.io/react/docs/thinking-in-react.html. Take a moment before you start to read the first two sections (Start and Step 1) from the comfort of your browser.
+
+You'll need Node installed. Then, from the command line:
+
+```sh
+# To install the workshop:
+npm install -g ThibWeb/thinking-in-react
+# Then, to run the workshop:
+thinking-in-react
+```
+
+At any moment, you can see your solution in the browser by running: `thinking-in-react server <solution file>`. The [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) will help you a lot.
+
+Note: We will make heavy use of JSX and ES6. Make sure that your editor has syntax highlighting for those.
+
+### To go further
+
+TODO
+
+### What did we learn?
+
+TODO
+
 ## Test-Driven Development workshop
 
 > A refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
