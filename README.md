@@ -104,13 +104,17 @@ At any moment, you can see your solution in the browser by running: `thinking-in
 
 Note: We will make heavy use of JSX and ES6. Make sure that your editor has syntax highlighting for those.
 
-#### To go further
-
-TODO
-
 #### What did we learn?
 
-TODO
+- React makes you think of your UI in terms of a [component hierarchy](http://facebook.github.io/react/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy).
+- It uses a syntax called [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html), and goes very well with [ES6 / ES2015 JavaScript](https://babeljs.io/docs/learn-es2015/).
+- The data flows in one direction from a component to its children, with [`props` and `state`](http://facebook.github.io/react/docs/multiple-components.html#data-flow).
+
+#### To go further
+
+- We can create explicit [inverse data flows](http://facebook.github.io/react/docs/thinking-in-react.html#step-5-add-inverse-data-flow) to propagate new data to parent components.
+- React's architecture pattern of choice is called [Flux](https://facebook.github.io/flux/docs/overview.html).
+- There are [lots](http://react.rocks/) of [components](http://react.parts/web) available [online](http://react-components.com/).
 
 ## Test-Driven Development
 
