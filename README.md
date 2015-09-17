@@ -16,6 +16,19 @@ workshops
 
 [![Built with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://www.springload.co.nz/)
 
+| :construction:                                      | :triumph:                                | :ok_hand: |
+|-----------------------------------------------------|-------------------------------------------------|-----------|
+| [Functional JavaScript](#functional-javascript)     | JS, functional programming, array extras        | `X`         |
+| [Unit Testing](#unit-testing)                       | JS, unit testing, tape                          | `X`         |
+| [Thinking in React](#thinking-in-react)             | JS, React, ES6                                  | `X`         |
+| ES6                                                 |                                                 |           |
+| Writing Good Code™                                  | refactoring, without the rotation and shame |           |
+| Child mode React                                    | React, without so much JS            |           |
+| [Test-Driven Development](#test-driven-development) | JS, unit testing, TDD, refactoring, coverage    |           |
+| Another take on FP JS / iterating           |                                                 |           |
+| Events!                                             | Event bubbling, capture, custom events          |           |
+| Scope                                               | this, const, let, var                           |           |
+
 ## Functional JavaScript
 
 > Learn functional programming in JavaScript with a NodeSchool workshop! https://github.com/timoxley/functional-javascript-workshop.
