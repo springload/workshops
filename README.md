@@ -16,12 +16,12 @@ workshops
 
 [![Built with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://www.springload.co.nz/)
 
-| :construction:                                      | :triumph:                                | :ok_hand: |
+| :construction:                                      | :triumph:                                       | :ok_hand: |
 |-----------------------------------------------------|-------------------------------------------------|-----------|
-| [Functional JavaScript](#functional-javascript)     | JS, functional programming, array extras        | `X`         |
-| [Unit Testing](#unit-testing)                       | JS, unit testing, tape                          | `X`         |
-| [Thinking in React](#thinking-in-react)             | JS, React, ES6                                  | `X`         |
-| ES6                                                 |                                                 |           |
+| [Functional JavaScript](#functional-javascript)     | JS, functional programming, array extras        | `X`       |
+| [Unit Testing](#unit-testing)                       | JS, unit testing, tape                          | `X`       |
+| [Thinking in React](#thinking-in-react)             | JS, React, ES6                                  | `X`       |
+| [ES6 JavaScript](#es6-javascript)                   | JS, ES6                                         | `X`       |
 | Writing Good Code™                                  | refactoring, without the rotation and shame |           |
 | Child mode React                                    | React, without so much JS            |           |
 | [Test-Driven Development](#test-driven-development) | JS, unit testing, TDD, refactoring, coverage    |           |
@@ -115,6 +115,29 @@ Note: We will make heavy use of JSX and ES6. Make sure that your editor has synt
 - We can create explicit [inverse data flows](http://facebook.github.io/react/docs/thinking-in-react.html#step-5-add-inverse-data-flow) to propagate new data to parent components.
 - React's architecture pattern of choice is called [Flux](https://facebook.github.io/flux/docs/overview.html).
 - There are [lots](http://react.rocks/) of [components](http://react.parts/web) available [online](http://react-components.com/).
+
+## ES6 JavaScript
+
+> An intro to new features coming up in the next version of JavaScript, ES6 / ES2015. https://github.com/domenic/count-to-6
+
+#### To start the workshop
+
+You'll need Node installed. Then, from the command line:
+
+```sh
+# To install the workshop:
+npm install -g count-to-6
+# Then, to run the workshop:
+count-to-6
+```
+
+#### To go further
+
+TODO
+
+#### What did we learn?
+
+TODO
 
 ## Test-Driven Development
 
