@@ -186,7 +186,7 @@ A workshop session involves the following activities:
 
 Rinse, repeat!
 
-The preparation / follow-up phases usually take around __two hours__ for one person, assuming that the workshop's material is pre-existent. The workshop session itself takes __two hours__ for each attendee. It is also better if the participants have a bit of time before the workshop to prepare their environment, and after it to step back and reflect on their learning.
+The preparation / follow-up phases usually take around __two hours for one person__, assuming that the workshop's material is pre-existent. The workshop session itself takes __two hours for each attendee__. It is also better if the participants have a bit of time before the workshop to prepare their environment, and after it to step back and reflect on their learning.
 
 #### Finding workshop material
 
