@@ -192,9 +192,20 @@ The preparation / follow-up phases usually take around __two hours for one perso
 
 Our workshop usually take the form of [NodeSchool](http://nodeschool.io) `workshopper` modules.
 
+#### Convincing your boss
+
+> If you [work for Springload](http://www.springload.co.nz/jobs/), your boss will be very keen to see you invest time in your team's skills.
+
+The goal of a training workshop is to help people get better at their craft, acquire new skills and advance in their career. It is a low-overhead alternative to professional training that encourages self-training.
+
+Bullet points:
+
+- Investing in your team's skills improves the quality of their work.
+- Use a vast collection of freely available, open-source workshop content.
+- Empower your team with the responsibility to train themselves.
+
 #### Measuring the success of a workshop
 
 - Attendance (Number of people)
 - Attendees' opinion (ROTI, Return On Time Invested – not the bread)
 - Attendees' self-evaluation of their skills
-
