@@ -191,3 +191,10 @@ The preparation / follow-up phases usually take around __two hours for one perso
 #### Finding workshop material
 
 Our workshop usually take the form of [NodeSchool](http://nodeschool.io) `workshopper` modules.
+
+#### Measuring the success of a workshop
+
+- Attendance (Number of people)
+- Attendees' opinion (ROTI, Return On Time Invested – not the bread)
+- Attendees' self-evaluation of their skills
+
