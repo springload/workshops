@@ -29,6 +29,8 @@ workshops
 | Events!                                             | Event bubbling, capture, custom events          |           |
 | Scope                                               | this, const, let, var                           |           |
 
+# Workshops
+
 ## Functional JavaScript
 
 > Learn functional programming in JavaScript with a NodeSchool workshop! https://github.com/timoxley/functional-javascript-workshop.
@@ -169,3 +171,23 @@ TODO
 #### To go further
 
 TODO
+
+# How to run a session
+
+A workshop session involves the following activities:
+
+- Preparing the workshop
+    + Researching content
+    + Testing the content
+    + Booking a time and place
+    + Advertising the workshop session
+- Running the session (introduction, workshop, debrief)
+- Sending follow-up material to attendees
+
+Rinse, repeat!
+
+The preparation / follow-up phases usually take around __two hours__ for one person, assuming that the workshop's material is pre-existent. The workshop session itself takes __two hours__ for each attendee. It is also better if the participants have a bit of time before the workshop to prepare their environment, and after it to step back and reflect on their learning.
+
+#### Finding workshop material
+
+Our workshop usually take the form of [NodeSchool](http://nodeschool.io) `workshopper` modules.
