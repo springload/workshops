@@ -131,11 +131,11 @@ npm install -g count-to-6
 count-to-6
 ```
 
-#### To go further
+#### What did we learn?
 
 TODO
 
-#### What did we learn?
+#### To go further
 
 TODO
 
@@ -162,10 +162,10 @@ open coverage/lcov-report/index.html
 npm run lint
 ```
 
-#### To go further
+#### What did we learn?
 
 TODO
 
-#### What did we learn?
+#### To go further
 
 TODO
