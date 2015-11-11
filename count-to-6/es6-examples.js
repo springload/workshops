@@ -8,8 +8,10 @@ function getURL() {
     return `/indicators/${this.id}/${dimensions}`;
 }
 
+// What we did before.
 '/indicators/' + this.id + '/' + dimensions
 
+// Why it's a good idea to use the ES6 way.
 ('1' + 1 + 3 +  2) === "1132"
 (1 + 3 +  2 + '1') === '61'
 
@@ -26,6 +28,7 @@ function loadMeasures(indicator, selectedMeasureIndex, timeInterval) {
     });
 }
 
+// What we did before
 var self = this;
 
 self.setState({
@@ -39,6 +42,9 @@ self.setState({
 (
     <Component {...props} flux={flux} key={key}/>
 );
+
+// What we did before
+// (nothing, it was a real pain)
 
 /**
  * Rest.
@@ -58,5 +64,7 @@ const thing = {
     },
 };
 
+// What we did before, the simple but hard to understand way
 threshold = threshold || 5;
+// What we did before, the proper way
 isOpen = typeof isOpen === 'undefined' ? !this.state.isOpen : isOpen;
