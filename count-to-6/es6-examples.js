@@ -11,7 +11,7 @@ function getURL() {
 // What we did before.
 '/indicators/' + this.id + '/' + dimensions
 
-// Why it's a good idea to use the ES6 way.
+// Why it's a good idea to use the ES6 way: the + operator is unreliable.
 ('1' + 1 + 3 +  2) === "1132"
 (1 + 3 +  2 + '1') === '61'
 
