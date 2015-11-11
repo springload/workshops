@@ -22,10 +22,10 @@ workshops
 | [Unit Testing](#unit-testing)                       | JS, unit testing, tape                          | `X`       |
 | [Thinking in React](#thinking-in-react)             | JS, React, ES6                                  | `X`       |
 | [ES6 JavaScript](#es6-javascript)                   | JS, ES6                                         | `X`       |
-| Writing Good Code™                                  | refactoring, without the rotation and shame |           |
-| Child mode React                                    | React, without so much JS            |           |
+| Writing Good Code™                                  | refactoring, without the rotation and shame     |           |
+| Child mode React                                    | React, without so much JS                       |           |
 | [Test-Driven Development](#test-driven-development) | JS, unit testing, TDD, refactoring, coverage    |           |
-| Another take on FP JS / iterating           |                                                 |           |
+| Another take on FP JS / iterating                   |                                                 |           |
 | Events!                                             | Event bubbling, capture, custom events          |           |
 | Scope                                               | this, const, let, var                           |           |
 
