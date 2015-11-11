@@ -135,11 +135,15 @@ count-to-6
 
 #### What did we learn?
 
-- https://babeljs.io/docs/learn-es2015/
+- [ES6](http://www.es6fiddle.net/) is JavaScript's latest version, introducing new syntax.
+- Since the browser support is not perfect, we compile it to ES5 using [Babel](https://babeljs.io).
+- ES6 has [a lot of new features](https://github.com/lukehoban/es6features#readme).
 
 #### To go further
 
-TODO
+- Have a look at ["real world" examples from our projects](https://github.com/springload/workshops/blob/master/count-to-6/es6-examples.js).
+- Try out ES6 features [in your browser](http://www.es6fiddle.net/).
+- An [ES6 quiz / brain teaser](http://perfectionkills.com/javascript-quiz-es6/).
 
 ## Test-Driven Development
 
