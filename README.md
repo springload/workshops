@@ -157,6 +157,7 @@ You'll need Node installed. Then, from the command line:
 # To install the workshop:
 git clone git@github.com:springload/workshops.git
 cd workshops/tdd-workshop/
+nvm install
 npm install
 npm install -g eslint eslint-config-airbnb eslint-plugin-react babel-eslint
 # Then, to run the workshop:
