@@ -97,7 +97,7 @@ You'll need Node installed. Then, from the command line:
 
 ```sh
 # To install the workshop:
-npm install -g ThibWeb/thinking-in-react
+npm install -g thinking-in-react
 # Then, to run the workshop:
 thinking-in-react
 ```
