@@ -22,7 +22,8 @@ workshops
 | [Unit Testing](#unit-testing)                       | JS, unit testing, tape                          | `X`       |
 | [Thinking in React](#thinking-in-react)             | JS, React, ES6                                  | `X`       |
 | [ES6 JavaScript](#es6-javascript)                   | JS, ES6                                         | `X`       |
-| Writing Good Code™                                  | refactoring, without the rotation and shame     |           |
+| [Writing Good Code™](#writing-good-code)                                  | Code smells, refactoring, OOP, FP, etc     | `X`       |
+
 | Child mode React                                    | React, without so much JS                       |           |
 | [Test-Driven Development](#test-driven-development) | JS, unit testing, TDD, refactoring, coverage    |           |
 | Another take on FP JS / iterating                   |                                                 |           |
@@ -144,6 +145,43 @@ count-to-6
 - Have a look at ["real world" examples from our projects](https://github.com/springload/workshops/blob/master/count-to-6/es6-examples.js).
 - Try out ES6 features [in your browser](http://www.es6fiddle.net/).
 - An [ES6 quiz / brain teaser](http://perfectionkills.com/javascript-quiz-es6/).
+
+## Writing Good Code
+
+What is good code?
+
+> A refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
+
+#### To start the workshop
+
+You'll need Node installed. Then, from the command line:
+
+```sh
+# To install the workshop:
+git clone git@github.com:springload/workshops.git
+cd workshops/writing-good-code/
+npm install
+npm install -g eslint eslint-config-airbnb eslint-plugin-react babel-eslint
+# Then, to run the workshop:
+npm start
+# Run the coverage
+npm run coverage
+open coverage/lcov-report/index.html
+# Run the linting
+npm run lint
+```
+
+#### What did we learn?
+
+TODO
+
+#### To go further
+
+Useful resources on writing good JavaScript:
+
+- A modern book, [Eloquent JavaScript](http://eloquentjavascript.net/).
+- [Idiomatic.js](https://github.com/rwaldron/idiomatic.js), one of the first JS styleguides.
+- One of the most used JavaScript styleguides, which we use at Springload, [airbnb/javascript](https://github.com/airbnb/javascript)
 
 ## Test-Driven Development
 
