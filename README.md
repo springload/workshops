@@ -148,9 +148,7 @@ count-to-6
 
 ## Writing Good Code
 
-What is good code?
-
-> A refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
+> An adaptation of a refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
 
 #### To start the workshop
 
@@ -161,7 +159,7 @@ You'll need Node installed. Then, from the command line:
 git clone git@github.com:springload/workshops.git
 cd workshops/writing-good-code/
 npm install
-npm install -g eslint eslint-config-airbnb eslint-plugin-react babel-eslint
+npm install -g eslint eslint-config-airbnb eslint-plugin-react babel-eslint buddy.js
 # Then, to run the workshop:
 npm start
 # Run the coverage

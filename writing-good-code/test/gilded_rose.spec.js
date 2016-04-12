@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import {Item, initialItems, update_quality } from '../src/gilded_rose_solution';
+import { Item, items as initialItems, update_quality } from '../src/gilded_rose';
 
 let items = initialItems;
 
@@ -25,7 +25,7 @@ describe('Gilded Rose Solution', () => {
         });
 
         it('should set a global array', () => {
-            expect(items instanceof Array).to.be.true;
+            expect(items).to.be.an('array');
         });
 
         it('should contain data', () => {
