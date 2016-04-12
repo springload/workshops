@@ -146,7 +146,7 @@ count-to-6
 - Try out ES6 features [in your browser](http://www.es6fiddle.net/).
 - An [ES6 quiz / brain teaser](http://perfectionkills.com/javascript-quiz-es6/).
 
-## Writing Good Code
+## Writing Good Code [![Code Climate](https://codeclimate.com/github/springload/workshops/badges/gpa.svg)](https://codeclimate.com/github/springload/workshops/writing-good-code/src/gilded_rose.js)
 
 > An adaptation of a refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
 

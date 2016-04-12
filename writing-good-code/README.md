@@ -1,4 +1,4 @@
-writing-good-code (gilded-roses)
+writing-good-code (gilded-roses) [![Code Climate](https://codeclimate.com/github/springload/workshops/badges/gpa.svg)](https://codeclimate.com/github/springload/workshops/writing-good-code/src/gilded_rose.js)
 ================================
 
 ## Setup
@@ -15,10 +15,9 @@ npm install -g eslint eslint-config-airbnb eslint-plugin-react babel-eslint
 
 ```sh
 # Run the tests with a watcher
-npm start
-# Run the coverage
-npm run coverage
-open coverage/lcov-report/index.html
+npm run start
+# Run the tests, one-off
+npm run test
 # Run the linting
 npm run lint
 ```
@@ -50,14 +49,24 @@ Just for clarification, an item can never have its `Quality` increase above 50, 
 
 ## Points of interest
 
-## Useful tools
+1. https://codeclimate.com/github/springload/workshops/writing-good-code/src/gilded_rose.js
 
-http://eslint.org/
-https://github.com/kucherenko/jscpd
+## Styleguide
 
-## Magic numbers
+https://codeclimate.com/github/springload/workshops/writing-good-code/src/gilded_rose.js
+https://github.com/airbnb/javascript
 
-> https://github.com/danielstjules/buddy.js
+```sh
+# Powered by ESLint http://eslint.org/
+npm run lint
+```
+
+### Magic numbers
+
+```sh
+# https://github.com/danielstjules/buddy.js
+npm run buddy
+```
 
 ```js
 const $first = $availabilityStatus.slice(0, 20);
@@ -98,3 +107,8 @@ const employeeRate = Math.max(account.employeeContributionRateNew, 3);
 // ./client/js/actions/account.js:229
 const employerRate = Math.min(Math.max(account.employerMaximumRate, 3), employeeRate);
 ```
+
+### Language features
+
+- [Array "extras"](https://dev.opera.com/articles/javascript-array-extras-in-detail/) methods (`map`, `reduce`, `filter`, etc) instead of "dumb loops".
+- [ES6 features](https://github.com/lukehoban/es6features#readme)
