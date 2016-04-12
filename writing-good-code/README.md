@@ -107,8 +107,3 @@ const employeeRate = Math.max(account.employeeContributionRateNew, 3);
 // ./client/js/actions/account.js:229
 const employerRate = Math.min(Math.max(account.employerMaximumRate, 3), employeeRate);
 ```
-
-### Language features
-
-- [Array "extras"](https://dev.opera.com/articles/javascript-array-extras-in-detail/) methods (`map`, `reduce`, `filter`, etc) instead of "dumb loops".
-- [ES6 features](https://github.com/lukehoban/es6features#readme)

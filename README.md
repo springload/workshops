@@ -171,7 +171,7 @@ npm run lint
 
 #### What did we learn?
 
-TODO
+See [`writing-good-code/src/gilded_rose_solution.js`](writing-good-code/src/gilded_rose_solution.js) for the end result.
 
 #### To go further
 
