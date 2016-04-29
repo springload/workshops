@@ -22,8 +22,7 @@ workshops
 | [Unit Testing](#unit-testing)                       | JS, unit testing, tape                          | `X`       |
 | [Thinking in React](#thinking-in-react)             | JS, React, ES6                                  | `X`       |
 | [ES6 JavaScript](#es6-javascript)                   | JS, ES6                                         | `X`       |
-| [Writing Good Code™](#writing-good-code)                                  | Code smells, refactoring, OOP, FP, etc     | `X`       |
-
+| [Writing Good Code™](#writing-good-code)            | Code smells, refactoring, OOP, FP, etc          | `X`       |
 | Child mode React                                    | React, without so much JS                       |           |
 | [Test-Driven Development](#test-driven-development) | JS, unit testing, TDD, refactoring, coverage    |           |
 | Another take on FP JS / iterating                   |                                                 |           |
