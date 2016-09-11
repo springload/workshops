@@ -147,7 +147,7 @@ count-to-6
 
 ## Writing Good Code [![Code Climate](https://codeclimate.com/github/springload/workshops/badges/gpa.svg)](https://codeclimate.com/github/springload/workshops/writing-good-code/src/gilded_rose.js)
 
-> An adaptation of a refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
+> An adaptation of a refactoring kata in JavaScript with Mocha and Chai https://github.com/thibaudcolas/gilded-roses.
 
 #### To start the workshop
 
@@ -182,7 +182,7 @@ Useful resources on writing good JavaScript:
 
 ## Test-Driven Development
 
-> A refactoring kata in JavaScript with Mocha and Chai https://github.com/ThibWeb/gilded-roses.
+> A refactoring kata in JavaScript with Mocha and Chai https://github.com/thibaudcolas/gilded-roses.
 
 #### To start the workshop
 
